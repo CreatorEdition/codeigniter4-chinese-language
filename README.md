@@ -4,7 +4,8 @@
 
 ## 功能
 
-- 为 CodeIgniter 4.5.5 提供中文本地化的错误消息。
+- 为 CodeIgniter 4.5.5 提供简体中文本地化的错误消息。
+- （中长期内应该都没问题，发布这个版本的时候官方最后更新中文简体还是三年前）
 - 支持框架常用功能的中文翻译，例如：数据库、验证、邮件、加密等。
 - 易于安装和配置。
 
@@ -15,7 +16,7 @@
 首先，您需要将项目克隆到本地：
 
 ```bash
-git clone https://github.com/your-username/codeigniter4-chinese-language.git
+git clone https://github.com/CreatorEdition/codeigniter4-chinese-language.git
 ```
 
         "安装依赖：
